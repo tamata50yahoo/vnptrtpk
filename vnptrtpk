@@ -789,33 +789,4 @@ rtp://@232.84.1.238:10296
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6
 rtp://@232.84.2.197:10966
 
-#------------------------Unknown------------------------#
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.222:11254
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.50:11752
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.254:11446
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.2.180:10338
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.179:10488
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.214:11206
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.215:11212
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.1.142:10386
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.3.194:11086
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.1.18:8082
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(MyTV Infocard)
-rtp://@232.84.2.143:10678
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(VOV TV Infocard)
-rtp://@232.84.1.46:8256
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(Testcard)
-rtp://@232.84.3.210:11182
-#EXTINF:0 tvg-id="" group-title="" tvg-logo="",(Testcard)
-rtp://@232.84.3.209:11176
 

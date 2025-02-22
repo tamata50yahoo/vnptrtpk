@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTM3U url-tvg="http://trada.info/epg.xml"
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="https://trada.info/epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml.gz"
 
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
